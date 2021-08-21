@@ -1,0 +1,8 @@
+{
+  "name": "memfs-relative-symlinks",
+  "version": "1.0.0",
+  "author": "turikhay",
+  "dependencies": {
+    "memfs": "^3.2.2"
+  }
+}
