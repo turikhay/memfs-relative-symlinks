@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "author": "turikhay",
   "dependencies": {
-    "memfs": "npm:@kylecarbs/memfs@^4.15.0"
+    "memfs": "memfs@^4.15.1"
   }
 }
